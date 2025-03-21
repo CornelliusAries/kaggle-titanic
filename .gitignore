@@ -156,3 +156,6 @@ wandb/
 # Slurm
 slurm-*.out
 slurm-*.err
+
+# Data 
+data/
